@@ -39,7 +39,7 @@ This project answers:
 
 ## Tech Stack
 
-- Python (Pandas, Matplotlib, Seaborn)  
+- Python (Pandas, Matplotlib)  
 - MySQL for data storage  
 - SQL for analysis  
 - Tableau for dashboard creation  
@@ -82,8 +82,7 @@ Generated insights using:
 - Sales by Category  
 - Sales by Region  
 - Profit by Region  
-- Top Customers  
-- Top Products  
+- Monthly Sales Trend
 
 ---
 
@@ -103,8 +102,7 @@ All charts are available in the screenshots folder:
 - Sales by Category  
 - Sales by Region  
 - Profit by Region  
-- Top Customers  
-- Top Products  
+- Monthly Sales Trend
 
 ---
 
